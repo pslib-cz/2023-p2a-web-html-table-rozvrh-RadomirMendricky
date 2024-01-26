@@ -1,0 +1,45 @@
+.red{
+    background-color: red;
+/*     border: 2px solid rgb(180, 183, 20); */
+}
+
+.blue{
+    background-color: blue;
+/*     border: 2px solid rgb(160, 24, 160); */
+}
+
+.green{
+    background-color: green;
+/*     border: 2px solid rgb(5, 196, 210); */
+}
+th, td {
+    min-width: 3em;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+th{
+    background-color: rgb(142, 142, 142);
+}
+table{
+    border-collapse: collapse;
+}
+
+.prvni{
+    background-color: rgb(255, 2, 251);
+}
+span{
+    display: block;
+    font-size: 0.5em;
+    color:rgb(78, 78, 78);
+}
+
+.one-row{
+    height: 6em;
+}
+.two-rows{
+    height: 3em;
+}
+.three-rows{
+    height: 2em;
+}
